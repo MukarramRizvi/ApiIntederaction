@@ -1,0 +1,13 @@
+body{
+    background-image: url("/public/background.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.container{
+    background: transparent;
+    backdrop-filter: blur(30px);
+}
+.feil label{
+    color: white;
+}
